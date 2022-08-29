@@ -2,10 +2,10 @@
 
 
 const comicData=[ 
-{ nombre:"Rebirth", imagen: "",precio: 25, stock:10},
-{ nombre:"Cape", imagen:"",precio: 25, stock:10},
-{ nombre:"Justice Legue", imagen:"",precio: 25, stock:10},
-{ nombre:"Superman", imagen:"",precio: 25, stock:10},
-{ nombre:"The killing joke", imagen:"",precio: 25, stock:10}
+{ nombre:"Rebirth", imagen: "./imagenes/rebirth.jpg",precio: 25, stock:10},
+{ nombre:"Cape", imagen:"./imagenes/batman.jpg",precio: 25, stock:10},
+{ nombre:"Justice Legue", imagen:"./justiceLegue.jpg",precio: 25, stock:10},
+{ nombre:"Superman", imagen:"./imagenes/superman.jpg",precio: 25, stock:10},
+{ nombre:"The killing joke", imagen:"./imagenes/joker.jpg",precio: 25, stock:10}
 ]
 export default comicData
